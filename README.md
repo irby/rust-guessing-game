@@ -4,3 +4,5 @@ This project serves as an exercise for learning the [Rust programming language](
 - Taking user input
 - Generating random numbers
 - Validating input
+
+[Guessing Game Tutorial from Rust](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
